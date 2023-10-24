@@ -36,5 +36,5 @@ Headings are used sequentially in the correct order (`<h1>`, `<h2>`, `<h3>`) to 
 
 
 
-this is the a screenshot of the website: https://github.com/AzzaAbdelrahman/Horisean-Marketing-Agency-1/blob/main/assets/images/img1.png
-URL of the page: https://azzaabdelrahman.github.io/Horisean-Marketing-Agency-1/
+this is the a screenshot of the website: https://github.com/AzzaAbdelrahman/Horisean-Marketing-Agency/blob/main/assets/images/img1.png
+URL of the page: https://azzaabdelrahman.github.io/Horisean-Marketing-Agency/
