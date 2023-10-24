@@ -34,4 +34,7 @@ All images are provided with appropriate `alt` attributes to make the content mo
 
 Headings are used sequentially in the correct order (`<h1>`, `<h2>`, `<h3>`) to maintain a logical document structure and hierarchy.
 
-Deploy URL: https://azzaabdelrahman.github.io/Horisean-Marketing-Agency-1/
+
+
+this is the a screenshot of the website: https://github.com/AzzaAbdelrahman/Horisean-Marketing-Agency-1/blob/main/assets/images/img1.png
+URL of the page: https://azzaabdelrahman.github.io/Horisean-Marketing-Agency-1/
